@@ -6,4 +6,7 @@
 
 - :computer: ISTQB® - Certified Tester Foundation Level
 
+[![Ashton's GitHub stats](https://github-readme-stats.vercel.app/api?username=acharge91)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - [Linked In](https://www.linkedin.com/in/ashton-charge/)
